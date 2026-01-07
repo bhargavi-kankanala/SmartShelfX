@@ -13,18 +13,32 @@ and improve operational efficiency.
 ---
 
 ## ✨ Features
-- Inventory tracking and management
-- Product stock monitoring
-- Modular and scalable architecture
-- Clean and user-friendly interface
+- Inventory tracking and management  
+- Product stock monitoring  
+- Modular and scalable architecture  
+- Clean and user-friendly interface  
 
 ---
 
 ## 🛠 Tech Stack
-- Frontend: React / HTML / CSS / JavaScript
-- Backend: Node.js (if applicable)
-- Database: (if applicable)
-- Tools: Git, GitHub
+
+**Frontend**
+- Angular
+- React 
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+**Backend**
+- Node.js (if applicable)
+
+**Database**
+- (Optional / Future integration)
+
+**Tools**
+- Git
+- GitHub
 
 ---
 
@@ -45,4 +59,8 @@ Backend & database integration
 
 ## 👩‍💻 Author
 Bhargavi Kankanala
+
+
+yaml
+Copy code
 
